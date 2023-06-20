@@ -7,7 +7,7 @@ My name is Theophilus Ngaribvume. Currently employed at Pindula. As the only dev
 I did my undergraduate degree at the University of Zimbabwe and graduated in 2020 with a 2.1 degree classification. The degree was theory intensive, more like theoretical computer science. With more emphasis on computation and algorithm efficiency.
 
 ### :hammer: Skills
-![django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=white)
+![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white) ![django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=white) 
 
 ### :rocket: Currently working on.
 1. :baggage_claim: Django eCommerce Boilerplate **(Django 4.2.2, TailwindCSS)**
