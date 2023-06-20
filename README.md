@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+
+### ✨ About Me
+My name is Theophilus Ngaribvume. Currently employed at Pindula. As the only developer at Pindula I'm responsible for everything from web designing, developing, deploying, and server management.
 
 <!--
 **theonga/theonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
