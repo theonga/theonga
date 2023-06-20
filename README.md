@@ -3,6 +3,12 @@
 ### ✨ About Me
 My name is Theophilus Ngaribvume. Currently employed at Pindula. As the only developer at [Pindula](https://www.pindula.co.zw/) I'm responsible for everything from web designing, developing, deploying, and server management. Beyond Pindula, I'm a passionate open-source advocate, always trying to help other developers build faster and more efficiently by providing them with project boilerplates.
 
+### :mortar_board: Education
+I did my undergraduate degree at the University of Zimbabwe and graduated in 2020 with a 2.1 degree classification. The degree was theory intensive, more like theoretical computer science. With more emphasis on computation and algorithm efficiency.
+
+### :hammer: Skills
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 ### :rocket: Currently working on.
 1. :baggage_claim: Django eCommerce Boilerplate **(Django 4.2.2, TailwindCSS)**
 2. :information_desk_person: Django Blog Boilerplate **(Django 4.2.2, TailwindCSS)**
