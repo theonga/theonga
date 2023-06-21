@@ -11,9 +11,9 @@ I did my undergraduate degree at the University of Zimbabwe and graduated in 202
 
 
 ### :ocean: Open Source Projects
-1. :moneybag: [Loan Calculator](https://loan.clouditate.co.zw/)
-2. :baggage_claim: Django eCommerce Boilerplate **(Django 4.2.2, TailwindCSS)**
-3. :information_desk_person: Django Blog Boilerplate **(Django 4.2.2, TailwindCSS)**
+1. :moneybag: [Loan Calculator](https://loan.clouditate.co.zw/) (React.Js, TailwindCSS)
+2. :baggage_claim: Django eCommerce Boilerplate**(Django 4.2.2, TailwindCSS)**
+3. :information_desk_person: Django Blog Boilerplate with comments, WYSIWYG editor, spam protection etc **(Django 4.2.2, TailwindCSS)**
 
 ### :rocket: Currently working on.
 1. :secret: Zvaita App - An app that helps users find or call a **mobile doctor**. I'm building it using **React Native (Expo), Firebase (Firestore), and Cloud Messaging**.
