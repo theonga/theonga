@@ -11,7 +11,7 @@ I did my undergraduate degree at the University of Zimbabwe and graduated in 202
 
 
 ### :ocean: Open Source Projects
-1. :moneybag: (Loan Calculator)[https://loan.clouditate.co.zw/]
+1. :moneybag: [Loan Calculator](https://loan.clouditate.co.zw/)
 2. :baggage_claim: Django eCommerce Boilerplate **(Django 4.2.2, TailwindCSS)**
 3. :information_desk_person: Django Blog Boilerplate **(Django 4.2.2, TailwindCSS)**
 
